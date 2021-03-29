@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Create an account on AWS"
 ---
-In participatory design, the participants play a critical role in the design. 
+Go to https://aws.amazon.com to create an account
 Use the left arrow to go back!
