@@ -1,8 +1,10 @@
 ## Machine Learning Slide Deck
 
-You can view the slides [here](https://blessinvarkey.github.io/ml-slideshow/#/). The slide deck keeps getting updated. The code to the repo uses the lab.github's version of the open source project [reveal.js](https://github.com/hakimel/reveal.js/).   
+You can view the ML slides [here](https://blessinvarkey.github.io/ml-slideshow/#/). The slide deck keeps getting updated. The code to the repo uses the lab.github's version of the open source project [reveal.js](https://github.com/hakimel/reveal.js/).   
 
 --   
+## Documentation
+
 
 <p align="center">
   <a href="https://revealjs.com">
@@ -17,11 +19,7 @@ reveal.js is an open source HTML presentation framework. It enables anyone with 
 
 The framework comes with a broad range of features including [nested slides](https://revealjs.com/vertical-slides/), [Markdown support](https://revealjs.com/markdown/), [Auto-Animate](https://revealjs.com/auto-animate/), [PDF export](https://revealjs.com/pdf-export/), [speaker notes](https://revealjs.com/speaker-view/), [LaTeX support](https://revealjs.com/math/), [syntax highlighted code](https://revealjs.com/code/) and much more.
 
-<h1>
-  <a href="https://revealjs.com/installation" style="font-size: 3em;">Get Started</a>
-</h1>
 
-## Documentation
 The full reveal.js documentation is available at [revealjs.com](https://revealjs.com).
 
 ## Online Editor
