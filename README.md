@@ -2,7 +2,6 @@
 
 You can view the ML slides [here](https://blessinvarkey.github.io/ml-slideshow/#/). The slide deck keeps getting updated. The code to the repo uses the lab.github's version of the open source project [reveal.js](https://github.com/hakimel/reveal.js/).   
 
---   
 ## Documentation
 
 
