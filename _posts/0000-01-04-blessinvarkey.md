@@ -1,6 +1,12 @@
 ---
 layout: slide
-title: "Create a Jupiter Notebook"
+title: "Virtualization"
 ---
-To create a notebook, choose Files-> New-> conda_python3
+Virtualization is the creation of a virtual version of:
+- A server - for hosting websites, apis, services etc
+- A desktop - for performing computational tasks 
+- A storage device 
+- An operating system
+- Network resources
 
+Cloud computing heavily relies on the virtualization.
