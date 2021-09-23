@@ -1,6 +1,13 @@
 ---
 layout: slide
-title: " Create an account on AWS"
+title: "Objectives"
 ---
-Go to https://aws.amazon.com to create an account
+- What is Cloud?
+- What is a Docker Registery?
+- SSH into VM
+- File transfer to VM
+- Load Balancing
+- Reverse Proxy
+- Hosting in VM
+- Docker in VM
 
