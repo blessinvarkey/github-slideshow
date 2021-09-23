@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Download or retrieve the data"
+title: "Advantages of Cloud Computing"
 ---
-Download a sample dataset from the UCI repository or from Kaggle. Set session and role.
+
 
