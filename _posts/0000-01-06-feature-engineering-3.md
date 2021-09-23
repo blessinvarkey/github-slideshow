@@ -1,10 +1,9 @@
 ---
 layout: slide
-title: "Look up"
+title: "Azure VM"
 ---
-- Scaling
-- Normalizing 
-- Dimensionality reduction,  
-- Date formatting, 
-- One-hot encoding
-- Attribute Statistics
+- WinSCP
+- Putty
+- PEM Key
+- PuttyGen
+- IP and username of VM
