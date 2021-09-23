@@ -1,6 +1,7 @@
 ---
 layout: slide
-title: "Create a Sagemaker notebook instance"
+title: "Cloud Computing"
 ---
-To create a notebook instance, use either the SageMaker console or the CreateNotebookInstance API
+Cloud computing is an on-demand access, via the internet to computing resources.
+Major cloud service providers include: AWS, Azure and GCP 
 
